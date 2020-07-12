@@ -1,3 +1,6 @@
 {
-  "text": "test" 
+  "config":
+  {
+    "text": "test" 
+  }
 }
